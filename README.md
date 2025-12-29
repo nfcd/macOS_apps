@@ -1,6 +1,6 @@
 # macOS_apps
 
-Nestor Cardozo's macOS applications for geosciences
+macOS applications for geosciences developed by Nestor Cardozo.
 
 - [cdem](/apps/cdem.zip): Discrete element modelling
 - [Stereonet3D](https://apps.apple.com/us/app/stereonet3d/id842165852?mt=12): Stereonet program with additional 3D visualization. Available on the Mac App Store.
