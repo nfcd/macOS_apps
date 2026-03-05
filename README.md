@@ -2,7 +2,7 @@
 
 macOS applications for geosciences developed by Nestor Cardozo.
 
-- [cdem](/apps/cdem.zip) v. 5.6: Discrete element modelling
+- [cdem](/apps/cdem.zip) v. 5.7: Discrete element modelling
 - [Stereonet3D](https://apps.apple.com/us/app/stereonet3d/id842165852?mt=12) v. 6.5: Stereonet program with additional 3D visualization. Available on the Mac App Store.
 - [GeoKalk](https://apps.apple.com/fi/app/geokalk/id848913229?mt=12) v. 7.0: A structural geology calculator with geometrical, strain and stress operations. Available on the Mac App Store.
 - [SSPX](https://apps.apple.com/mz/app/sspx/id850389108?mt=12) v. 7.4: Strain from displacement or velocity data. Available on the Mac App Store.
